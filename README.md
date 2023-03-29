@@ -1,6 +1,12 @@
 # born2beRoot
 
-![image](https://user-images.githubusercontent.com/116757689/228551464-393aba75-8a6c-4c8f-9bcd-d3c2016389c6.png)
+
+
+![<img style="margin-left: 30px" src=foo.svg height=30>](https://user-images.githubusercontent.com/116757689/228568414-018ef490-2a79-42ea-b3f7-6d138690491d.png)
+
+
+
+this project is about making a Virtual Machine, it's quite easy if you just follow the guide, the hard part is passing the evaluation since there is no moulinette and you have to convince other of you deep understaind of the project, you peers will fail you if you are not able to answer some. questions
 
 
 this project is about making a Virtual Machine, it's quite easy if you just follow the guide, the hard part is passing the evaluation since there is no moulinette and you have to convince other of you deep understaind of the project, you peers will fail you if you are not able to answer some. questions
