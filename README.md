@@ -22,7 +22,7 @@ this project is about making a Virtual Machine, it's quite easy if you just foll
 
 [![introductio to virtual Machine](https://ytcards.demolab.com/?id=wX75Z-4MEoM&ab_channel=NetworkChuck&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration= "virtual machine")](https://youtu.be/wX75Z-4MEoM)[![introductio to virtual Machine](https://ytcards.demolab.com/?id=ORcvSkgdA58&ab_channel=Computerphile&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration= "ssh protocol")](https://youtu.be/ORcvSkgdA58)
 
-# SSH EXPLANATION:
+# SSH EXPLANATION: (secure shell)
 
 SSH stands for "Secure Shell." It's a way to connect to a computer securely from another computer over the internet. Imagine you're sending a secret message to a friend, but you don't want anyone else to be able to read it. You could put the message in a box and lock it with a key. You would send the box to your friend, and they would unlock it with their own key to read the message.
 
