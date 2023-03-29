@@ -1,5 +1,12 @@
 # born2beRoot
 
+A hypervisor is a piece of software that allows you to run multiple operating systems on a single physical computer at the same time. It's like having multiple virtual computers inside one physical computer.
+
+Think of it like having a big house with many rooms. Each room can have its own furniture, decorations, and people living in it. A hypervisor is like the owner of the house, who can create and manage these rooms and decide which people can live in them.
+
+Similarly, a hypervisor creates virtual machines (VMs) that act like independent computers with their own operating systems, applications, and data. These VMs can be used for testing, development, or to host multiple services on a single physical server, saving costs and improving efficiency.
+
+Overall, a hypervisor is a powerful tool that allows you to make the most out of your computer's resources by running multiple virtual machines on a single physical machine.
 
 
 ![<img style="margin-left: 30px" src=foo.svg height=30>](https://user-images.githubusercontent.com/116757689/228568414-018ef490-2a79-42ea-b3f7-6d138690491d.png)
