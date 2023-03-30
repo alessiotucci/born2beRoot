@@ -1,5 +1,25 @@
 # born2beRoot
 
+# DEBIAN OR CENTOS
+
+
+
+* Debian and CentOS are both popular Linux distributions, but they have some differences that may make one more suitable for your needs than the other.
+
+    Think of Debian and CentOS like two different flavors of ice cream.🍦
+
+* Debian is like vanilla ice cream, it's a classic and reliable choice that most people enjoy. It comes with a lot of toppings and flavors that you can add to make it your own, but it's still simple and easy to understand.
+
+    Debian is known for its stability, reliability, and ease of use. It uses the APT package manager and has a large repository of software packages available, making it a great choice for desktop and server use. If you're a beginner who wants a user-friendly Linux distribution that's easy to install and use, Debian may be a good choice for you.
+
+* CentOS, on the other hand, is like a more sophisticated and complex flavor of ice cream, like a rich chocolate truffle. It's packed with all the high-quality ingredients and advanced features that you need for an enterprise-grade system, but it may be overwhelming and difficult for beginners to fully appreciate.
+
+    On the other hand, CentOS is known for its security, stability, and enterprise-grade features. It uses the YUM package manager and has a focus on server use, with a more limited selection of software packages available. If you're looking to set up a server or run enterprise-grade applications, CentOS may be a good choice for you.
+
+* As a beginner, it's important to choose a Linux distribution that matches your skill level and goals. If you're new to Linux and want an easy-to-use system, Debian may be the better choice for you. However, if you have experience with Linux and need a more secure and stable system for your server, CentOS may be the better choice.
+
+# HYPERVISOR MEANS 
+
 A hypervisor is a piece of software that allows you to run multiple operating systems on a single physical computer at the same time. It's like having multiple virtual computers inside one physical computer.
 
 Think of it like having a big house with many rooms. Each room can have its own furniture, decorations, and people living in it. A hypervisor is like the owner of the house, who can create and manage these rooms and decide which people can live in them.
